@@ -323,3 +323,12 @@ Style/SlicingWithRange:
   Description: 'Checks array slicing is done with endless ranges when suitable.'
   Enabled: true
   Safe: false
+Style/AccessorGrouping:
+  Enabled: true
+  Safe: true
+Style/BisectedAttrAccessor:
+  Enabled: true
+  Safe: true
+Style/RedundantAssignment:
+  Enabled: true
+  Safe: true
