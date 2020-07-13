@@ -329,3 +329,6 @@ Style/BisectedAttrAccessor:
   Enabled: true
 Style/RedundantAssignment:
   Enabled: true
+Style/FrozenStringLiteralComment:
+  Enabled: true
+  Safe: true
