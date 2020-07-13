@@ -325,10 +325,7 @@ Style/SlicingWithRange:
   Safe: false
 Style/AccessorGrouping:
   Enabled: true
-  Safe: true
 Style/BisectedAttrAccessor:
   Enabled: true
-  Safe: true
 Style/RedundantAssignment:
   Enabled: true
-  Safe: true
