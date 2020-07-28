@@ -332,3 +332,5 @@ Style/RedundantAssignment:
 Style/FrozenStringLiteralComment:
   Enabled: true
   Safe: true
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
