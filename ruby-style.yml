@@ -331,6 +331,8 @@ Style/RedundantAssignment:
   Enabled: true
 Style/FrozenStringLiteralComment:
   Enabled: true
+  Safe: true
+  SafeAutoCorrect: true
 Style/ClassAndModuleChildren:
   EnforcedStyle: compact
 Lint/DuplicateElsifCondition:
@@ -344,4 +346,18 @@ Style/HashAsLastArrayItem:
 Style/HashLikeCase:
   Enabled: true
 Style/RedundantFileExtensionInRequire:
+  Enabled: true
+Lint/DuplicateRegexpCharacterClassElement:
+  Enabled: true
+Lint/EmptyBlock:
+  Enabled: true
+Lint/ToEnumArguments:
+  Enabled: true
+Lint/UnmodifiedReduceAccumulator:
+  Enabled: true
+Style/ArgumentsForwarding:
+  Enabled: true
+Style/DocumentDynamicEvalDefinition:
+  Enabled: true
+Style/SwapValues:
   Enabled: true
