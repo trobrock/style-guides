@@ -331,8 +331,6 @@ Style/RedundantAssignment:
   Enabled: true
 Style/FrozenStringLiteralComment:
   Enabled: true
-  Safe: true
-  SafeAutoCorrect: true
 Style/ClassAndModuleChildren:
   EnforcedStyle: compact
 Lint/DuplicateElsifCondition:
