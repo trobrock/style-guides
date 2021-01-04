@@ -4,7 +4,7 @@ AllCops:
     - "db/**/*"
   UseCache: false
 Metrics/BlockLength:
-  ExcludedMethods: [
+  IgnoredMethods: [
     'class_methods',
     'context',
     'define',
@@ -358,4 +358,26 @@ Style/ArgumentsForwarding:
 Style/DocumentDynamicEvalDefinition:
   Enabled: true
 Style/SwapValues:
+  Enabled: true
+Layout/SpaceBeforeBrackets:
+  Enabled: true
+Lint/AmbiguousAssignment:
+  Enabled: true
+Lint/DuplicateBranch:
+  Enabled: true
+Lint/EmptyClass:
+  Enabled: true
+Lint/NoReturnInBeginEndBlocks:
+  Enabled: true
+Lint/UnexpectedBlockArity:
+  Enabled: true
+Style/CollectionCompact:
+  Enabled: true
+Style/HashExcept:
+  Enabled: true
+Style/NegatedIfElseCondition:
+  Enabled: true
+Style/NilLambda:
+  Enabled: true
+Style/RedundantArgument:
   Enabled: true
