@@ -3,6 +3,7 @@ AllCops:
     - "vendor/**/*"
     - "db/**/*"
   UseCache: false
+  SuggestExtensions: false
 Metrics/BlockLength:
   IgnoredMethods: [
     'class_methods',
