@@ -382,3 +382,11 @@ Style/NilLambda:
   Enabled: true
 Style/RedundantArgument:
   Enabled: true
+Lint/DeprecatedConstants:
+  Enabled: true
+Lint/LambdaWithoutLiteralBlock:
+  Enabled: true
+Lint/RedundantDirGlobSort:
+  Enabled: true
+Style/EndlessMethod:
+  Enabled: true
