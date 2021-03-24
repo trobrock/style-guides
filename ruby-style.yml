@@ -1,8 +1,11 @@
 AllCops:
   NewCops: enable
   Exclude:
-    - "vendor/**/*"
-    - "db/**/*"
+    - 'node_modules/**/*'
+    - 'vendor/**/*'
+    - 'db/**/*'
+    - 'bin/**/*'
+    - Brewfile
   UseCache: false
   SuggestExtensions: false
 Metrics/BlockLength:
