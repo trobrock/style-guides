@@ -8,7 +8,6 @@ AllCops:
     - Brewfile
   UseCache: false
   SuggestExtensions: false
-  TargetRubyVersion: '3.1'
 Metrics/BlockLength:
   IgnoredMethods: [
     'class_methods',
