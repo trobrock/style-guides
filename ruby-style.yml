@@ -57,6 +57,8 @@ Style/PercentLiteralDelimiters:
     "%w": "()"
     "%W": "()"
     "%x": "()"
+Style/FrozenStringLiteralComment:
+    SafeAutoCorrect: true
 Style/RaiseArgs:
   Description: Checks the arguments passed to raise/fail.
   StyleGuide: https://github.com/bbatsov/ruby-style-guide#exception-class-messages
