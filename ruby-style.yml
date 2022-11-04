@@ -237,7 +237,7 @@ Layout/MultilineMethodCallIndentation:
     - indented
 Layout/SpaceInsidePercentLiteralDelimiters:
   Description: 'No unnecessary spaces inside delimiters of %i/%w/%x literals.'
-  Enabled: false
+  Enabled: true
 Layout/SpaceInLambdaLiteral:
   Description: 'Checks for spaces in lambda literals.'
   Enabled: false
