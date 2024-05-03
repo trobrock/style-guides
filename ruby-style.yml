@@ -271,4 +271,4 @@ Layout/EmptyLinesAroundAttributeAccessor:
     - protected
     - private
 Style/ClassAndModuleChildren:
-  EnforcedStyle: compact
+  EnforcedStyle: nested
