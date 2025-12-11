@@ -6,7 +6,7 @@ AllCops:
     - 'db/**/*'
     - 'bin/**/*'
     - Brewfile
-  UseCache: false
+  UseCache: true
   SuggestExtensions: false
 Lint/MissingSuper:
   Enabled: false
